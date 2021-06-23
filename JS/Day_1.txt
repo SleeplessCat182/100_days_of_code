@@ -1,7 +1,0 @@
-For the first day, i learn about fundamnetal of javascript:
-->Loops and If statements
-->How to declare a variable, const
-->Function, Arrow function
-->Objects and arrays
-->Operators, 7 primitive types (Data types)
-->Type Conversion and Coercion
